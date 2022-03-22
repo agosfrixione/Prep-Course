@@ -3,4 +3,5 @@ Strings: Son cadenas de caracteres que se escriben entre comillas y se usan para
 Funciones: Son un conjunto de instrucciones para realizar una tarea o resolver un problema que podemos invocar mas tarde y nos devolvera una respuesta.
 Argumentos: Son variables dentro de la funcion.
 Return: Especifica lo que esa funcion nos va a devolver cuando la invoquemos.
-Declaraciones:  
+Declaraciones: Son condiciones asignadas a una expresión, si la condición se cumple nos devolvera las acciones asignadas a esa expresión, lo mismo pasará en caso de que la condición no se cumpla.
+Valores booleanos: Son variables que se les asigna como contenido true o false, es decir al invocarlas nos devolveran uno o el otro. 
