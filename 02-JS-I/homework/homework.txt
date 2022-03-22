@@ -1,0 +1,6 @@
+Variables: Son una forma de almacenar valores para usarlos más tarde.
+Strings: Son cadenas de caracteres que se escriben entre comillas y se usan para representar datos textuales.
+Funciones: Son un conjunto de instrucciones para realizar una tarea o resolver un problema que podemos invocar mas tarde y nos devolvera una respuesta.
+Argumentos: Son variables dentro de la funcion.
+Return: Especifica lo que esa funcion nos va a devolver cuando la invoquemos.
+Declaraciones:  
