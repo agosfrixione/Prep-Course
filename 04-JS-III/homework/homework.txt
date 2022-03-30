@@ -1,0 +1,1 @@
+Arrays: Son matrices similares a una lista que contienen colecciones de datos, a las que se les pueden agregar o eliminar elementos.
