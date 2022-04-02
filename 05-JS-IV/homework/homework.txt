@@ -1,0 +1,6 @@
+Objetos: Contenedores de pares clave (identificador) y valor (lo que queremos guardar en esa clave, puede ser de cualquier tipo: strings, números, booleanos, matrices, funciones u otros objetos), estos pares van separados por una coma.
+Propiedades: Las propiedades son cada uno de esos pares clave:valor.
+Métodos: Son funciones guardadas en un objeto a las que se puede acceder con un punto, el nombre del método y parentesis al final.
+Bucles (for, in): Bucles que sirven para iterar sobre cada par clave:valor de un objeto.
+Notación de puntos: Es la forma de acceder a un valor dentro de un objeto (nombredelobjeto.clave)
+Notación de corchetes: Es la forma de llamar a un elemento en una matriz pero se debe usar una cadena o número, o una variable que apunte a una cadena o número.
